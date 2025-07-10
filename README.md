@@ -17,9 +17,13 @@ Screenshots of your app and/or a link to your live demo
 
 ## Installation
 Instructions for other developers on how to install and run your code on their local environment.
-git clone [your-repo-url]
-cd [your-repo-folder]
-php -S localhost:8000
+Follow these steps to run the project locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone [your-repo-url]
+   cd [your-repo-folder]
+   php -S localhost:8000
 Visit http://localhost:8000 and explore the app!
 
 ## License
