@@ -24,8 +24,7 @@ Follow these steps to run the project locally:
    git clone [this-repo-url]
    cd [this-repo-folder]
    php -S localhost:8000
-2. **Clone the repository**
-   Visit http://localhost:8000 and explore the app!
+2. **Visit http://localhost:8000 and explore the app!**
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
